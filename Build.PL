@@ -10,7 +10,7 @@ if($^O ne "linux")
 
 my %module_build_args = (
 	dist_name     => "Linux-Ethtool",
-	dist_version  => "0.01",
+	dist_version  => "0.11",
 	dist_abstract => "Linux SIOCETHTOOL ioctl interface",
 	dist_author   => [ "Daniel Collins <solemnwarning\@solemnwarning.net>" ],
 	
